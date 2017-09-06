@@ -2,4 +2,6 @@
 
 Experiments using a softmax prototype partitioning for a mixture of experts model.
 
-This repository has not yet been updated for Keras 2.
+![Model Visualization](/model.png)
+
+This repository is outdated, and has not been updated for Keras 2.
